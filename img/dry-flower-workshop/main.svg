@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+<title id="title">ドライフラワーのワークショップ。初心者でも90分で1束完成。材料込み、持ち帰りの箱付き。</title>
+<rect width="1200" height="800" fill="#edf5e5"/>
+<rect x="40" y="40" width="1120" height="720" rx="28" fill="#fff" stroke="#a5bd86" stroke-width="2"/>
+<g font-family="Hiragino Sans, Yu Gothic, sans-serif" fill="#35512d">
+<text x="95" y="150" font-size="30" letter-spacing="5">はなまる花店</text>
+<text x="95" y="275" font-size="66" font-weight="bold">ドライフラワーの</text>
+<text x="95" y="375" font-size="78" font-weight="bold">ワークショップ</text>
+<path d="M95 430H1105" stroke="#d4dfc4" stroke-width="2"/>
+<text x="95" y="525" font-size="43">初心者でも90分で1束完成</text>
+<text x="95" y="610" font-size="34">材料込み・持ち帰りの箱付き</text>
+<text x="95" y="700" font-size="29">週末に、手作りを楽しみませんか。</text>
+</g></svg>
