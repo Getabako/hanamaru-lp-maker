@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#f0f6e7"/>
+<rect x="40" y="40" width="1120" height="720" rx="26" fill="#fff" stroke="#a5bd86" stroke-width="2"/>
+<g font-family="Hiragino Sans, Yu Gothic, sans-serif" fill="#35512d">
+<text x="100" y="170" font-size="30" letter-spacing="6">はなまる花店</text>
+<text x="100" y="340" font-size="96" font-weight="bold">秋の寄せ植え</text>
+<text x="100" y="440" font-size="38">花屋が選ぶ3種の組み合わせ</text>
+<path d="M100 500H1100" stroke="#d4dfc4" stroke-width="2"/>
+<text x="100" y="585" font-size="32">水やりは週2回</text>
+<text x="660" y="585" font-size="32">11月まで楽しめる</text>
+<text x="100" y="680" font-size="28">玄関に、秋を。</text>
+</g></svg>
